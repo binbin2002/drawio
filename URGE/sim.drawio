@@ -16,17 +16,14 @@
         <mxCell id="skpdQ-7-BO7aOmbV2o3J-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（）" vertex="1">
           <mxGeometry height="30" width="60" x="-440" y="-460" as="geometry" />
         </mxCell>
-        <mxCell id="skpdQ-7-BO7aOmbV2o3J-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;(a)&amp;nbsp; Maze&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="skpdQ-7-BO7aOmbV2o3J-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 72px;&quot;&gt;(a)&amp;nbsp; Maze&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="320" x="160" y="-290" as="geometry" />
         </mxCell>
-        <mxCell id="f2hT-4gCygJ42_ZQqt8x-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;(b)&amp;nbsp; Office&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="f2hT-4gCygJ42_ZQqt8x-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 72px;&quot;&gt;(b)&amp;nbsp; Office&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="320" x="160" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="f2hT-4gCygJ42_ZQqt8x-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;(c)&amp;nbsp; Indoor Corridors&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="120" width="540" x="1114" y="810" as="geometry" />
-        </mxCell>
-        <mxCell id="f2hT-4gCygJ42_ZQqt8x-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;(c)&amp;nbsp; Indoor Corridors&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="100" width="510" x="1349" y="450" as="geometry" />
+        <mxCell id="f2hT-4gCygJ42_ZQqt8x-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 72px;&quot;&gt;(c)&amp;nbsp; Indoor Corridors&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="691" x="1349" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
